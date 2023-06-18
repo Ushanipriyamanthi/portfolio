@@ -28,6 +28,16 @@ This portfolio website showcases my projects, skills, and experience. It provide
 - **Skills and Experience**: Highlight my skills, qualifications, and work experience.
 - **Contact Form**: Provide a way for visitors to get in touch with me by filling out a contact form.
 - **Responsive Design**: Ensure the website looks great and functions well on different devices and screen sizes.
+  
+## Screenshots
+
+![Screenshot 1](/screenshots/screenshot1.png)
+![Screenshot 2](/screenshots/screenshot2.png)
+
+## Demo Video
+
+[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+
 
 ## Installation
 
