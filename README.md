@@ -32,7 +32,11 @@ This portfolio website showcases my projects, skills, and experience. It provide
 ## Screenshots
 
 ![Screenshot 1](https://github.com/Ushanipriyamanthi/portfolio/blob/main/images/Screenshot%20(105).png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 2](https://github.com/Ushanipriyamanthi/portfolio/blob/main/images/Screenshot%20(102).png)
+![Screenshot 3]()
+![Screenshot 4]()
+![Screenshot 5]()
+
 
 ## Demo Video
 
