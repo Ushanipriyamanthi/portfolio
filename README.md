@@ -31,8 +31,8 @@ This portfolio website showcases my projects, skills, and experience. It provide
 
 ## Installation
 
-1. Clone the repository: `git clone <repository_url>`
-2. Navigate to the project directory: `cd portfolio-website`
+1. Clone the repository: `git clone https://github.com/Ushanipriyamanthi/portfolio.git`
+2. Navigate to the project directory: `cd portfolio`
 3. Install the dependencies: `npm install`
 
 ## Usage
